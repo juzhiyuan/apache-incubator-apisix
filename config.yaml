@@ -1,4 +1,4 @@
-baseURL: https://github.com/iresty/apisix
+baseURL: http://apisix.incubator.apache.org
 languageCode: en-us
 title: APISIX
 theme: hugo-fresh
